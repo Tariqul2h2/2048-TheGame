@@ -1,1 +1,3 @@
 # 2048-TheGame
+I started a project ...
+want to finish it
